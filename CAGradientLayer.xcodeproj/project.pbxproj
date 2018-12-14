@@ -9,12 +9,12 @@
 /* Begin PBXBuildFile section */
 		047C2CC521C39358007D84A7 /* AppDelegate.m in Sources */ = {isa = PBXBuildFile; fileRef = 047C2CC421C39358007D84A7 /* AppDelegate.m */; };
 		047C2CC821C39358007D84A7 /* ViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 047C2CC721C39358007D84A7 /* ViewController.m */; };
-		047C2CCB21C39358007D84A7 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 047C2CC921C39358007D84A7 /* Main.storyboard */; };
 		047C2CCD21C3935C007D84A7 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 047C2CCC21C3935C007D84A7 /* Assets.xcassets */; };
 		047C2CD021C3935C007D84A7 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 047C2CCE21C3935C007D84A7 /* LaunchScreen.storyboard */; };
 		047C2CD321C3935C007D84A7 /* main.m in Sources */ = {isa = PBXBuildFile; fileRef = 047C2CD221C3935C007D84A7 /* main.m */; };
 		047C2CDD21C3935C007D84A7 /* CAGradientLayerTests.m in Sources */ = {isa = PBXBuildFile; fileRef = 047C2CDC21C3935C007D84A7 /* CAGradientLayerTests.m */; };
 		047C2CE821C3935C007D84A7 /* CAGradientLayerUITests.m in Sources */ = {isa = PBXBuildFile; fileRef = 047C2CE721C3935C007D84A7 /* CAGradientLayerUITests.m */; };
+		047C2CF621C3A71F007D84A7 /* 企业微信截图_d535fbbc-9977-43f6-9820-fdadc4091946.png in Resources */ = {isa = PBXBuildFile; fileRef = 047C2CF521C3A71F007D84A7 /* 企业微信截图_d535fbbc-9977-43f6-9820-fdadc4091946.png */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -40,7 +40,6 @@
 		047C2CC421C39358007D84A7 /* AppDelegate.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = AppDelegate.m; sourceTree = "<group>"; };
 		047C2CC621C39358007D84A7 /* ViewController.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = ViewController.h; sourceTree = "<group>"; };
 		047C2CC721C39358007D84A7 /* ViewController.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = ViewController.m; sourceTree = "<group>"; };
-		047C2CCA21C39358007D84A7 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/Main.storyboard; sourceTree = "<group>"; };
 		047C2CCC21C3935C007D84A7 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		047C2CCF21C3935C007D84A7 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		047C2CD121C3935C007D84A7 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
@@ -51,6 +50,7 @@
 		047C2CE321C3935C007D84A7 /* CAGradientLayerUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = CAGradientLayerUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		047C2CE721C3935C007D84A7 /* CAGradientLayerUITests.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = CAGradientLayerUITests.m; sourceTree = "<group>"; };
 		047C2CE921C3935C007D84A7 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		047C2CF521C3A71F007D84A7 /* 企业微信截图_d535fbbc-9977-43f6-9820-fdadc4091946.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "企业微信截图_d535fbbc-9977-43f6-9820-fdadc4091946.png"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -105,7 +105,7 @@
 				047C2CC421C39358007D84A7 /* AppDelegate.m */,
 				047C2CC621C39358007D84A7 /* ViewController.h */,
 				047C2CC721C39358007D84A7 /* ViewController.m */,
-				047C2CC921C39358007D84A7 /* Main.storyboard */,
+				047C2CF521C3A71F007D84A7 /* 企业微信截图_d535fbbc-9977-43f6-9820-fdadc4091946.png */,
 				047C2CCC21C3935C007D84A7 /* Assets.xcassets */,
 				047C2CCE21C3935C007D84A7 /* LaunchScreen.storyboard */,
 				047C2CD121C3935C007D84A7 /* Info.plist */,
@@ -236,8 +236,8 @@
 			buildActionMask = 2147483647;
 			files = (
 				047C2CD021C3935C007D84A7 /* LaunchScreen.storyboard in Resources */,
+				047C2CF621C3A71F007D84A7 /* 企业微信截图_d535fbbc-9977-43f6-9820-fdadc4091946.png in Resources */,
 				047C2CCD21C3935C007D84A7 /* Assets.xcassets in Resources */,
-				047C2CCB21C39358007D84A7 /* Main.storyboard in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -300,14 +300,6 @@
 /* End PBXTargetDependency section */
 
 /* Begin PBXVariantGroup section */
-		047C2CC921C39358007D84A7 /* Main.storyboard */ = {
-			isa = PBXVariantGroup;
-			children = (
-				047C2CCA21C39358007D84A7 /* Base */,
-			);
-			name = Main.storyboard;
-			sourceTree = "<group>";
-		};
 		047C2CCE21C3935C007D84A7 /* LaunchScreen.storyboard */ = {
 			isa = PBXVariantGroup;
 			children = (
